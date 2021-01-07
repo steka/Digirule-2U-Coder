@@ -8,5 +8,4 @@ on the meaning of all the instructions along with examples has been copied and p
 comment field which enabled by hovering the mouse over the Instruction.
 
 
-![Coder Drop Down details 1](https://user-images.githubusercontent.com/3634275/103860368-6037b900-5120-11eb-859c-4478060e2fa8.jpg)
 
