@@ -6,3 +6,4 @@ The new Digirule 2U does not have this so I have created a coder "Digirule-2U-Co
 of the origional one but modified to reflect all of the instructions. In addition the User manual section 
 on the meaning of all the instructions along with examples has been copied and presented as a drop down 
 comment field which enabled by hovering the mouse over the Instruction.
+
